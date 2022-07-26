@@ -9,14 +9,14 @@
         <div class="logo">
             <a href="index.php">
                 
-<h3>Shopping Portal</h3>
+<h3>GREEN SPHERE</h3>
             </a>
         </div><!-- /.logo -->
     
     </div><!-- /.footer-logo -->
 
      <div class="module-body m-t-20">
-        <p class="about-us"> Nam libero tempore, cum soluta nobis est ses  eligendi optio cumque cum soluta nobis est ses  eligendi optio cumque.</p>
+        <p class="about-us"> we greensphere are one of the most popular marketing group.</p>
     
         <div class="social-icons">
             
@@ -70,7 +70,7 @@
                     </span>
                 </div>
                 <div class="media-body">
-                    <p>New Delhi, Delhi</p>
+                    <p>Choondacherry ,Kottayam</p>
                 </div>
             </li>
 
